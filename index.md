@@ -1,7 +1,7 @@
 ## Welcome to GitHub Pages
 
  
-You can use the [editor on GitHub](https://github.com/kaogi/kaogi.github.io/edit/main/index.md) https://waxoo.fr to maintain and preview the content for your website in Markdown files.
+You can use the [editor on GitHub](https://github.com/kaogi/kaogi.github.io/edit/main/index.md) [Link] https://waxoo.fr to maintain and preview the content for your website in Markdown files.
 
 
 
